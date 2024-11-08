@@ -1,0 +1,20 @@
+site_name: "Documentación de PrestaShop"
+
+theme: 
+  name: material  # O cualquier otro tema que prefieras, por ejemplo "readthedocs"
+  logo: assets/logo.png  # Asegúrate de que la ruta al archivo sea correcta
+  favicon: assets/favicon.ico  # Asegúrate de que la ruta al archivo sea correcta
+
+extra:
+  description: "Un tema de documentación para PrestaShop diseñado para Examen parcial."
+  author:
+    name: "Serhii Antoniuk"
+
+nav:
+  - Inicio: index.md
+  - Vender:
+      - Gestión de pedidos 📦: gestion_pedidos.md
+      - Gestión de productos 🛍️: gestion_productos.md
+      - Gestión de clientes 👥: gestion_clientes.md
+      - Atención al cliente 💬: atencion_cliente.md
+      - Estadísticas 📊: estadisticas.md
