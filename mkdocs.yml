@@ -1,7 +1,9 @@
 site_name: "Documentación de PrestaShop"
 
 theme: 
-  name: material  # O cualquier otro tema que prefieras, por ejemplo "readthedocs"
+  name: material
+  features:
+    - content.image.lightbox
   logo: assets/logo.png  # Asegúrate de que la ruta al archivo sea correcta
   favicon: assets/favicon.ico  # Asegúrate de que la ruta al archivo sea correcta
 
@@ -18,3 +20,4 @@ nav:
       - Gestión de clientes 👥: gestion_clientes.md
       - Atención al cliente 💬: atencion_cliente.md
       - Estadísticas 📊: estadisticas.md
+  - Prueba Lightbox: test.md
