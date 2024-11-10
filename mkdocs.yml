@@ -2,10 +2,17 @@ site_name: "Documentación de PrestaShop"
 
 theme: 
   name: material
+
   features:
     - content.image.lightbox
+    
   logo: assets/logo.png  # Asegúrate de que la ruta al archivo sea correcta
   favicon: assets/favicon.ico  # Asegúrate de que la ruta al archivo sea correcta
+
+
+
+plugins:
+  - search
 
 extra:
   description: "Un tema de documentación para PrestaShop diseñado para Examen parcial."
@@ -13,11 +20,10 @@ extra:
     name: "Serhii Antoniuk"
 
 nav:
-  - Inicio: index.md
-  - Vender:
+  - 🏡 Inicio: index.md
+  - 🛒 Vender:
       - Gestión de pedidos 📦: gestion_pedidos.md
       - Gestión de productos 🛍️: gestion_productos.md
       - Gestión de clientes 👥: gestion_clientes.md
       - Atención al cliente 💬: atencion_cliente.md
       - Estadísticas 📊: estadisticas.md
-  - Prueba Lightbox: test.md
