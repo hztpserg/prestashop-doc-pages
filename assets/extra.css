@@ -1,0 +1,5 @@
+/* Cambiar cursor a puntero para imágenes con lightbox */
+img {
+    cursor: pointer;
+}
+
