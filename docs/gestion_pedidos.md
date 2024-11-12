@@ -15,7 +15,8 @@ La página de **Pedidos**, accesible desde el menú principal, muestra toda la i
 
   > **Recordatorio**: PrestaShop **no permite importar pedidos**.
 
-  [![Captura de gestión de pedidos](assets/Vender_01_001.png)](assets/Vender_01_001.png)
+  ![Captura de gestión de pedidos](assets/Vender_01_001.png)
+
 
 ## ➕ Crear un pedido <a href="pedidos-crearunpedido" id="pedidos-crearunpedido"></a>
 ---
