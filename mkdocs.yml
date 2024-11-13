@@ -16,6 +16,7 @@ copyright: Copyright &copy; 2024 Serhii Antoniuk
 # Configuration
 theme: 
   name: material
+  language: es
   custom_dir: material/overrides
   features:
     - announce.dismiss
