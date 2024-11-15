@@ -1,5 +1,6 @@
 [⬅️ Volver](index.md#prestashop-doc) <!-- Enlace de regreso -->
 
+---
 # Gestionar los productos 🛍️
 ---
 
