@@ -1,9 +1,9 @@
 [⬅️ Volver](index.md#prestashop-doc) <!-- Enlace de regreso -->
 
-# 📈 Comprender las estadísticas
+# 📊 Comprender las estadísticas
 ---
 
-## 📊 Visión general de las estadísticas
+## 📈 Visión general de las estadísticas
 
 ??? info "Descripción general de las estadísticas"
     Las estadísticas son una herramienta esencial para analizar y optimizar el rendimiento de tu tienda en PrestaShop. La sección "Estadísticas" ofrece una visión integral de los datos clave de tu tienda, permitiéndote tomar decisiones informadas para mejorar la experiencia del cliente y aumentar las ventas.
