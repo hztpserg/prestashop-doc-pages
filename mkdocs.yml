@@ -1,5 +1,5 @@
 # Project information
-site_name: "Documentación de PrestaShop"
+site_name: "Documentación de PrestaShop 8.0.1"
 site_url: https://hztpserg.github.io/prestashop-doc-pages/
 site_author: Serhii Antoniuk
 site_description: >-
@@ -11,7 +11,7 @@ repo_name: hztpserg/prestashop-doc-pages
 repo_url: https://github.com/hztpserg/prestashop-doc-pages
 
 # Copyright
-copyright: Copyright &copy; 2024 Serhii Antoniuk
+copyright: "Copyright &copy; 2024 Serhii Antoniuk<br>Versión de la documentación: 1.0.0"
 
 # Configuration
 theme: 
